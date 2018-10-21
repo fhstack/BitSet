@@ -40,7 +40,7 @@ protected:
 
 void TestMyBitSet()
 {
-    BitSet bt(9);
+    BitSet bt(150);
     bt.Set(7);
     bt.Set(100);
     bt.Set(77);
